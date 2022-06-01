@@ -1,0 +1,2 @@
+# Juke_Box_Project
+Juke Box is a Music Player device. In this application you can add the songs and podcasts in playlist and from playlist you can play the songs and podcasts. User can also search songs and podcast by track name, by artist name and by release date. User can also forward or backward the songs and repeat the songs. It is similar to spotify application. Technologies used – Java , OOPs concepts,  Collection Framework, JDBC. Tool worked on – Eclipse IDE.
